@@ -11,3 +11,4 @@ Contents of directory
 Deleting a file
 Deleting a file
 Deleting file
+9-firstdirdeletion deletes directory
