@@ -1,4 +1,3 @@
-Contents of directory
 6-firstdirectory creates a directory in /tmp
 2-bring_me_home changes the working directory to home
 1-listit displays contents of current directory
@@ -8,7 +7,5 @@ Contents of directory
 0-current_working_directory displays the name of the directory
 5-listfilesdigitonly lists files with digits only
 7-movethatfile moves file into directory
-Deleting a file
-Deleting a file
-Deleting file
 9-firstdirdeletion deletes directory
+12-file_type displayes the file type
