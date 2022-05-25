@@ -4,3 +4,4 @@ Contents of directory
 1-listit displays contents of current directory
 3-listfiles displays contents in long format
 4-listmorefiles lists current contents including hidden files
+1-listit lists the contents of directory
