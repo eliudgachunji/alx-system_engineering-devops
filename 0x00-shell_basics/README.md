@@ -5,3 +5,4 @@ Contents of directory
 3-listfiles displays contents in long format
 4-listmorefiles lists current contents including hidden files
 1-listit lists the contents of directory
+0-current_working_directory displays the name of the directory
