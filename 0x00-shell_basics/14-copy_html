@@ -1,2 +1,3 @@
 #!/bin/bash
-cp -v *.html /alx-system_engineering-devops
+cp -u*.html ../
+
