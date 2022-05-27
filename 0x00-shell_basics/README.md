@@ -15,3 +15,4 @@
 14-copy_html copies html files only
 100-lets_move moves all files beginning with uppercase
 101-clean_emacs removes all emacs files
+102-tree creates a tree
