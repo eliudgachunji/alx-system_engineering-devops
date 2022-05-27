@@ -14,3 +14,4 @@
  3 files changed, 6 insertions(+)
  create mode 100755 0x00-shell_basics/11-lists
  create mode 100755 0x00-shell_basics/11-lists~
+Displays the type of file
