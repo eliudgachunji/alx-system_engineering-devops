@@ -10,3 +10,7 @@
 9-firstdirdeletion deletes directory
 12-file_type displayes the file type10-back goes back to previous directory
 11-lists lists all files in the directories
+[master fd78eb1] Lists files in multiple directories
+ 3 files changed, 6 insertions(+)
+ create mode 100755 0x00-shell_basics/11-lists
+ create mode 100755 0x00-shell_basics/11-lists~
