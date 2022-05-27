@@ -8,4 +8,4 @@
 5-listfilesdigitonly lists files with digits only
 7-movethatfile moves file into directory
 9-firstdirdeletion deletes directory
-12-file_type displayes the file type
+12-file_type displayes the file type10-back goes back to previous directory
