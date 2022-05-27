@@ -9,3 +9,4 @@
 7-movethatfile moves file into directory
 9-firstdirdeletion deletes directory
 12-file_type displayes the file type10-back goes back to previous directory
+11-lists lists all files in the directories
