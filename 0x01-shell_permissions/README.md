@@ -10,3 +10,5 @@
 0x01-shell_permissions gives varied permissions
 8-James_Bond gives varied permissions
 11-directories_permissions gives subdirectories execute permissions
+9-John_Doe modifies permsiions for hello
+10-mirror_permissions gives mirror permissions
