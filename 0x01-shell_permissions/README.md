@@ -9,3 +9,4 @@
 8-James_Bond gives specific permissions
 0x01-shell_permissions gives varied permissions
 8-James_Bond gives varied permissions
+11-directories_permissions gives subdirectories execute permissions
