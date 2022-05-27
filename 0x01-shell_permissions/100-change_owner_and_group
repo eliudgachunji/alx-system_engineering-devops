@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp staff -da; chown vincent -da
