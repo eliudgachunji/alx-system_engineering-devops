@@ -13,3 +13,4 @@
 11-lists lists all files in the directoris
 13-symbolic_link creates a symbolic link
 14-copy_html copies html files only
+100-lets_move moves all files beginning with uppercase
