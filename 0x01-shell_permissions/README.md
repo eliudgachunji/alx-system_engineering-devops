@@ -12,3 +12,4 @@
 11-directories_permissions gives subdirectories execute permissions
 9-John_Doe modifies permsiions for hello
 10-mirror_permissions gives mirror permissions
+12-directory_permissions creates a directory with specific permissions
