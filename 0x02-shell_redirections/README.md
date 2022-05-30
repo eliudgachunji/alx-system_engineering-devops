@@ -9,3 +9,4 @@
 11-directories gives the number of directories
 7-file creates a new file named with special characters
 14-findthatword displays lines containing the pattern root
+15-countthatword counts the number of lines with a pattern
