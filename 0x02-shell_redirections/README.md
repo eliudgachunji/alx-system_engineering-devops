@@ -11,3 +11,4 @@
 14-findthatword displays lines containing the pattern root
 15-countthatword counts the number of lines with a pattern
 17-hidethisword displays the lines without the pattern
+18-letteronly displays the files that begin with a letter
