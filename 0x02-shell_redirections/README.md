@@ -13,3 +13,4 @@
 17-hidethisword displays the lines without the pattern
 18-letteronly displays the files that begin with a letter
 10-no_more_js deletes all the js files
+11-directories counts the number of directories
