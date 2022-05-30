@@ -17,3 +17,4 @@
 12-newest_files displays the 10 newest files
 19-AZ replaces characters
 20-hiago deletes specific characters
+13-unique prints words that appear only once
