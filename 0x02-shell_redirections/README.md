@@ -7,3 +7,5 @@
 6-third_line displays third line of file
 7-file creates a new file with textls_cwd_content outputs into a new file
 11-directories gives the number of directories
+7-file creates a new file named with special characters
+14-findthatword displays lines containing the pattern root
