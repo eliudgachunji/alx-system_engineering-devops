@@ -19,3 +19,5 @@
 20-hiago deletes specific characters
 13-unique prints words that appear only once
 21-reverse reverses the input
+22-users_and_home
+22-users_and_home displays all users and their home directories
