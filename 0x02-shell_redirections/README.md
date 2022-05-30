@@ -6,3 +6,4 @@
 5-first_lines displays the first 10 lines
 6-third_line displays third line of file
 7-file creates a new file with textls_cwd_content outputs into a new file
+11-directories gives the number of directories
