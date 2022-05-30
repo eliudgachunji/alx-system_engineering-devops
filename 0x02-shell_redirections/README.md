@@ -18,3 +18,4 @@
 19-AZ replaces characters
 20-hiago deletes specific characters
 13-unique prints words that appear only once
+21-reverse reverses the input
